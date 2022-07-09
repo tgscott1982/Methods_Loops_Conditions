@@ -1,0 +1,15 @@
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.exe
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.deps.json
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.runtimeconfig.json
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\refint\MethodsWithLoopsAndConditionals.dll
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.genruntimeconfig.cache
+C:\Users\Travis\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\ref\MethodsWithLoopsAndConditionals.dll
